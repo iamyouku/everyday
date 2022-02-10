@@ -24,3 +24,8 @@ World Trend
 
 >w3school
 >>python 10
+
+
+天數   |  日期    |   獎勵    |
+|:---        |:---       |:---:
+1|2022-02-10|Github CatOneTwo MarkDown 基礎
